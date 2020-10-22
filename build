@@ -1,0 +1,4 @@
+#!/bin/bash
+echo "Compile makeLED.cpp and create executable makeLED"
+g++ makeLED.cpp -o makeLED
+echo "Finished"
